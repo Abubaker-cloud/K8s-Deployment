@@ -88,3 +88,16 @@ The Deployment returned to a healthy state with 4/4 replicas running.
 ## Outcome
 
 Successfully diagnosed a failed Deployment update and restored the application using Kubernetes Rollback.
+## Screenshots
+
+### 1. Failed Deployment
+![Failed Deployment](Failed%20Deployment.png)
+
+### 2. Deployment Investigation
+![Deployment Investigation](Deployment%20Investigation.png)
+
+### 3. Rollback
+![Rollback](Recovery.png)
+
+### 4. Recovery Verification
+![Recovery Verification](Recovery%20Verification.png)
